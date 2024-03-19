@@ -1,4 +1,4 @@
-###Business Card Information Extraction Application
+Business Card Information Extraction Application
 
 This Streamlit application allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information includes the company name, cardholder name, designation, mobile number, email address, website URL, area, city, state, and pin code. Users can then save the extracted information along with the uploaded business card image into a database.
 
